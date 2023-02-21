@@ -1,0 +1,22 @@
+{
+  "name": "brawl-stars-test-bot",
+  "version": "1.0.0",
+  "description": "Brawl Stars Test Bot created by DIBSTER",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node Handlers/Modules/CreateSlashCommands.js"
+  },
+  "author": "DIBSTER",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "brawlstars.js": "^1.2.2",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.2.0",
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.8",
+    "reconlx": "^2.5.1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "Discord": {
+        "ERROR_COLOR": "",
+        "ERROR_EMOTE": "",
+        "SUCESS_COLOR": "",
+        "SUCESS_EMOTE": "",
+        "CUSTOM_COLOR": "",
+        "CUSTOM_FOOTER": "",
+        "LOGO": ""
+    },
+    "Tokens": {
+        "Discord": "",
+        "BrawlStars": "",
+        "BrawlAPI": "*"
+    },
+    "Others": {
+        "MongoDB": ""
+    }
+}
